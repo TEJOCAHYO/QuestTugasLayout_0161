@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuestLayout_p4</string>
+    <string name="prodi">Teknologi Informasi</string>
+    <string name="univ">Universitas Muhammadiyah Yogyakarta</string>
+
+    <!-- Mahasiswa 1 -->
+    <string name="nama_1">agus kopling</string>
+    <string name="alamat_1">Turi, Sleman</string>
+
+    <!-- Mahasiswa 2 -->
+    <string name="nama_2">sudaryono njemping</string>
+    <string name="phone_2">085436874190</string>
+    <string name="alamat_2">Kasihan, Bantul</string>
+
+    <!-- Mahasiswa 3 -->
+    <string name="nama_3">Muhammad soleh</string>
+    <string name="phone_3">085436874190</string>
+    <string name="alamat_3">Depok, Sleman</string>
+
+    <!-- Mahasiswa 4 -->
+    <string name="nama_4">susanto rajaguguk</string>
+    <string name="phone_4">085436874190</string>
+    <string name="alamat_4">Gamping, Sleman</string>
+</resources>
